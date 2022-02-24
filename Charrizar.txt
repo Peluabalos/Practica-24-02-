@@ -1,10 +1,11 @@
 Charrizar esta re loquito
 
 hola !
-<<<<<<< HEAD
-que tal?
-=======
+
+
+
 
 
 como estuvo tu clase de informatica ?
->>>>>>> b31969d2e6acedfef16c01c5d1f78038c4e07f53
+
+bastante complicada
